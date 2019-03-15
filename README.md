@@ -24,7 +24,7 @@ Add all new or changed files to the repository staging area (the period means al
 git add .
  
 
-4)commit — Commit all changes to the repository for first time (-m means message)
+4) commit — Commit all changes to the repository for first time (-m means message)
 
 git commit –m “Initial commit”
 Commit all changes to the repository for later activities
